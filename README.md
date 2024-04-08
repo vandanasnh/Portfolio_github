@@ -1,14 +1,16 @@
-# Data Science Portfolio - Arch Desai
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+#  Driving Data-Driven Decisions and Accelerating Business Growth :Vandana
+This Portfolio showcase my specialization in leveraging advanced analytical techniques to transform complex data into actionable insights that fuel business growth. With a passion for fostering data-driven cultures, I translate organizational needs into strategic solutions, empowering teams to make informed decisions..
 
-- **Email**: [archdesai.ad@gmail.com](archdesai.ad@gmail.com)
-- **LinkedIn**: [linkedin.com/archd3sai](https://www.linkedin.com/in/archd3sai/)
+- **Email**: [vandanasinha7@gmail.com](vandanasinha7@gmail.com)
+- **LinkedIn**: [linkedin.com/vandana-sinha](https://www.linkedin.com/in/vandana-sinha-246925149/)
 
-## Achievements
-- Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
-- [Publication](https://phmpapers.org/index.php/phmconf/article/view/1292): Prognosis of Wind Turbine Gearbox Bearing Failures using SCADA and Modeled Data, Proceedings of the Annual Conference of the PHM Society 2020, Vol. 12 No. 1.
-- Winner of a TAMU Datathon 2020 among 50+ teams.
-- Recipient of TAMU Scholarship and Fee Waiver for excellent academic performance (4.0 GPA).
+## Accomplishments
+- Intel Corporation: Recognized for exceptional problem-solving, devising a process that slashed customer complaints by 20%. Innovative solutions led to participation in Intel's prestigious Incubation Program.
+- CRISIL Global Research: Honored with Star and CLAP awards for exemplary performance, contributing to a 15% uplift in customer satisfaction.
+- Freelance Work: Spearheaded training and development of junior data scientists, driving a 7% increase in project efficiency and 5% improvement in data quality metrics, resulting in a well-deserved promotion.
+- Hewlett Packard: Received widespread acclaim and numerous accolades as a pivotal contributor to development and automation efforts, boosting market share by an impressive 10%.
+- University of North Texas: Attained membership in The Honor Society of Phi Kappa Phi, distinguishing among the top 10% academically.
+- Recipient of UNT Scholarship and Fee Waiver for excellent academic performance (4.0 GPA).
 
 ## Projects
 
@@ -68,10 +70,7 @@ In this project I applied various classification models such as Logistic Regress
     - [Linear Regression](https://github.com/archd3sai/Statistical-Methods/blob/master/Linear%20Regression.ipynb): In this file, I aim to solve linear regression using analytical method and also by implementing gradient descent, stochastic gradient descent and minibatch gradient descent algorithms. 
     - [Neural Network Implementation](https://github.com/archd3sai/Statistical-Methods/blob/master/NN%20Implementation.ipynb): In this file, I implemented simple neural network using forward propogation, backword propogation and optimization functions to predict the customer churn.
  
-- ### Challenges
-    - [SQL Challenges](https://github.com/archd3sai/SQL): This repository contains codes of online SQL challenges (From Hackerrank, Leetcode, Testdome, etc.) solved by me.
-    - [Data Science Challenges](https://github.com/archd3sai/DS-Challenges): This repository contains codes of online Data Science challenges (From Hackerrank, TestDome, etc.) solved by me.
-    
+   
 - ### Ranking Algorithms
     - [Ranking of NFL teams using Markov-chain methods](https://github.com/archd3sai/Ranking-of-NFL-Teams-using-Markov-method/blob/master/Ranking%20of%20NFL%20teams%20Report.pdf) : In this project I implemented and compared three stationary distribution of Markov-chain based approaches to rank 32 NFL (National Football League) teams from "Best" to "Worst" using the scores of 2007 NFL regular season.
     - [Ranking of Tennis players](https://github.com/archd3sai/Tennis-Players-Ranking/blob/master/TennisRanking.ipynb) : Objective of this project is to rank all Tennis Players based on the matches they played in the year of 2018. This project comprises 4 approaches to rank Tennis players and I have tried to make these approaches more robust sequentially.
@@ -79,7 +78,7 @@ In this project I applied various classification models such as Logistic Regress
 ## Core Competencies
 
 - **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, C++
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), SQL, C++
 - **Tools**: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel
 
 ## Certificates
