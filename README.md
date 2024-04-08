@@ -14,9 +14,9 @@ This Portfolio showcase my specialization in leveraging advanced analytical tech
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/vandanasnh/Portfolio_github/blob/master/Images/senstar_auf_sensor_fusion_render_1-950x535.png"> **[Intruder Detection System](https://github.com/vandanasnh/Object-Detection))**
+<img align="left" width="250" height="150" src="https://github.com/vandanasnh/Portfolio_github/blob/master/Images/senstar_auf_sensor_fusion_render_1-950x535.png"> **[Intruder Detection System](https://github.com/vandanasnh/Object-Detection)**
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+In this project I developed a powerful intruder detection application that utilizes Intel's OpenVINO toolkit and advanced object detection models to detect and track objects within designated areas. The system processes input from multiple cameras and video files, providing real-time alerts and object counts.
 
 #
 
@@ -26,7 +26,7 @@ The objective of this project is to analyze the 3 million grocery orders from mo
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)**
+<img align="left" width="250" height="150" src="(https://github.com/vandanasnh/Portfolio_github/blob/master/Images/fraud.png)"> **[Credit-card-fraud-detection]()**
  
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
 
