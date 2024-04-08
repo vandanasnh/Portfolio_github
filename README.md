@@ -20,16 +20,9 @@ In this project I developed a powerful intruder detection application that utili
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
-
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
-
-#
-
-<img align="left" width="250" height="150" src="(https://github.com/vandanasnh/Portfolio_github/blob/master/Images/fraud.png)"> **[Credit-card-fraud-detection]()**
+<img align="left" width="250" height="150" src="(https://github.com/vandanasnh/Portfolio_github/blob/master/Images/fraud.png)"> **[Credit-card-fraud-detection](https://github.com/vandanasnh/Credit-card-fraud-detection)**
  
-A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
-
+Credit card fraud detection is a critical concern for banks and financial institutions to safeguard their customers' assets and maintain trust in the banking system.
 #
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[Predictive Maintenance of Aircraft Engine](https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine)**
