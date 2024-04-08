@@ -1,4 +1,4 @@
-#  Driving Data-Driven Decisions and Accelerating Business Growth :Vandana
+#  Driving Data-Driven Decisions and Accelerating Business Growth : Vandana
 This Portfolio showcase my specialization in leveraging advanced analytical techniques to transform complex data into actionable insights that fuel business growth. With a passion for fostering data-driven cultures, I translate organizational needs into strategic solutions, empowering teams to make informed decisions..
 
 - **Email**: [vandanasinha7@gmail.com](vandanasinha7@gmail.com)
